@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5", "MD5\MD5.csproj", "{0839BB23-035C-4A84-BBD6-54E3A6D61F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5.Tests", "MD5.Tests\MD5.Tests.csproj", "{4898A48A-3FBE-4CDE-B510-F258E766EE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0839BB23-035C-4A84-BBD6-54E3A6D61F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0839BB23-035C-4A84-BBD6-54E3A6D61F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0839BB23-035C-4A84-BBD6-54E3A6D61F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0839BB23-035C-4A84-BBD6-54E3A6D61F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4898A48A-3FBE-4CDE-B510-F258E766EE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4898A48A-3FBE-4CDE-B510-F258E766EE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4898A48A-3FBE-4CDE-B510-F258E766EE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4898A48A-3FBE-4CDE-B510-F258E766EE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
